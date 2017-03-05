@@ -1,0 +1,128 @@
+{
+    "started": true,
+    "chapter1": [
+        {
+            "a": "a",
+            "q": "ans is a",
+            "succ": [
+                "Woot! great job :D",
+                "Great job :)"
+            ],
+            "conf": {
+                "caps": false
+            },
+            "hint": [
+                "awh :/ Try again?",
+                "Try your full name?"
+            ]
+        },
+        {
+            "a": "b",
+            "q": "ans is : b",
+            "succ": [
+                "Awesome! You know your way around your own body :D",
+                "Good job :)"
+            ],
+            "conf": {
+                "caps": false
+            },
+            "hint": [
+                "Some hint a",
+                "some hint b?"
+            ]
+        }
+    ],
+    "chapters": [
+        {
+            "ref": "chapter1",
+            "title": "Chapter One: Just the Fax",
+            "fin": "Well done! You've begun your journey!",
+            "desc": ""
+        },
+        {
+            "ref": "chapter2",
+            "title": "Chapter Two: The Continewashon",
+            "fin": "Well done! You've begun your journey!",
+            "desc": ""
+        },
+        {
+            "ref": "chapter3",
+            "title": "Chapter Three: The Final CountDoun",
+            "fin": "Well done! You've begun your journey!",
+            "desc": ""
+        }
+    ],
+    "chapter2": [
+        {
+            "a": "a",
+            "q": "ans is a",
+            "succ": [
+                "Woot! great job :D",
+                "Great job :)"
+            ],
+            "conf": {
+                "caps": false
+            },
+            "hint": [
+                "awh :/ Try again?",
+                "Try your full name?"
+            ]
+        },
+        {
+            "a": "b",
+            "q": "ans is: b",
+            "succ": [
+                "Awesome! You know your way around your own body :D",
+                "Good job :)"
+            ],
+            "conf": {
+                "caps": false
+            },
+            "hint": [       
+                "Some hint a",
+                "some hint b?"
+            ]
+        }
+    ],
+    "chapter3": [
+        {
+            "a": "a",
+            "q": "ans is a",
+            "succ": [
+                "Woot! great job :D",
+                "Great job :)"
+            ],
+            "conf": {
+                "caps": false
+            },
+            "hint": [
+                "awh :/ Try again?",
+                "Try your full name?"
+            ]
+        },
+        {
+            "a": "b",
+            "q": "ans is b",
+            "succ": [
+                "Awesome! You know your way around your own body :D",
+                "Good job :)"
+            ],
+            "conf": {
+                "caps": false
+            },
+            "hint": [
+                "Some hint a",
+                "some hint b?"
+            ]
+        }
+    ],
+    "hintConf": {
+        "current": 7,
+        "start": 10,
+        "type": "sessionReset"
+    },
+    "stage": [
+        3,
+        0
+    ]
+}
